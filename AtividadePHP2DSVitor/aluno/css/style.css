@@ -1,0 +1,36 @@
+label{
+    display: block;
+    margin-top: 20px;
+}
+
+body{
+        font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    padding: 0%;
+    margin: 0%;
+}
+
+.alL{
+    padding: 5px;  
+    margin: 0%;
+    width: 200px;
+}
+
+.txt{
+    font-size: 18px;
+}
+
+input{
+    font-size: 15px;
+    border: 1px solid blue;
+}
+
+div{
+    background-color: lightblue;
+
+    display: inline-block;
+    margin-top: 20px;
+    padding: 50px;
+    height: 500px;
+    
+}
