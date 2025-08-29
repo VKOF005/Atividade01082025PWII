@@ -13,6 +13,7 @@
 </head>
 <body>
     <div>
+
         <h1> Cadastro de Aluno </h1>
         <form class = "txt" action = "processa php" method = "post">
             <label for="name">Nome</label>

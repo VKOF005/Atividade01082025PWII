@@ -4,7 +4,7 @@ label{
 }
 
 body{
-        font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     background-color: white;
     padding: 0%;
     margin: 0%;
@@ -27,7 +27,7 @@ input{
 
 div{
     background-color: lightblue;
-
+    margin: auto;
     display: inline-block;
     margin-top: 20px;
     padding: 50px;
